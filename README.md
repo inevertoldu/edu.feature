@@ -1,4 +1,13 @@
 # edu.feature
-Config files for my GitHub profile.
 
-Created!
+반갑습니다.
+이 레포지토리는 '머신러닝 및 딥러닝을 활용한 교육 데이터 분석' 교재에 등장하는 샘플 코드 및 데이터셋을 모아 두었습니다.
+
+## Data Folder
+필요한 데이터셋은 각각의 xlsx 및 csv 파일로 구성되어 있습니다.
+
+## Source code
+각 장별로 실행 파일이 구분되어 나타나 있습니다.
+
+## 최종 수정일
+2021년 7월 20일
